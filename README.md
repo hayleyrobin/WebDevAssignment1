@@ -2,7 +2,7 @@
 
 Zoo Assignment for Practical Web Dev!
 
-[Link to Website!](https://hayleyrobin.github.io/assignment1/)
+[Link to Website!](https://hayleyrobin.github.io/WebDevAssignment1/)
 
 References for Zoo Information:
 
