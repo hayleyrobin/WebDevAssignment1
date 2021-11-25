@@ -1,4 +1,4 @@
-# Assignment1
+# WebDevAssignment1
 
 Zoo Assignment for Practical Web Dev!
 
